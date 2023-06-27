@@ -9,9 +9,9 @@ Additionally, you will need either a stereo 3.5mm splitter, or RCA splitters, de
 
 ## Items Needed
 * Powered DVI splitter [link](https://www.amazon.com/gp/product/B084LK5S5Q)
-* 2xRCA or 1x stereo 3.5mm splitter
-* RCA cables or 3.5mm cable, at least 10' in length (depending on what type of splitter you use)
-* 2 DVI cables (One DVI cable should be 3-6' in length, the other should be at least 10' in length)
+* 2xRCA or 1x stereo 3.5mm splitter. examples: [RCA 2 pack](https://www.amazon.com/dp/B0B7JW7SHB), [3.5mm](https://www.amazon.com/dp/B06XF4J6RT)
+* RCA cables or 3.5mm cable, at least 10' in length (depending on what type of splitter you use). examples: [3.5mm](https://www.amazon.com/dp/B004G3ZTU8/), [RCA](https://www.amazon.com/dp/B003L1508M/)
+* 2 DVI cables (One DVI cable should be 3-6' in length, the other should be at least 10' in length) examples: [3 foot](https://www.amazon.com/dp/B09QG7VQ51), [10 foot](https://www.amazon.com/dp/B09QGP67Q2)
 * A capture card capable of capturing DVI signals, and any necessary adapters. One known good card is the [StarTech USB3HDCAP](https://www.amazon.com/StarTech-com-USB3HDCAP-Video-Capture-Device/dp/B00PC5HUA6).
 
 ## Install Process
