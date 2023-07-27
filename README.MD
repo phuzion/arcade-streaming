@@ -20,7 +20,7 @@
 * SD cabinet (573)
 
 ### Gitadora
-* XG Full Stage
+* [XG cabinets](/konami/gitadora/xg-cab.md)
 
 ### Sound Voltex
 * [Nemsys Model](/konami/sdvx/nemsys-cab.md) (SDVX 5 and later)
