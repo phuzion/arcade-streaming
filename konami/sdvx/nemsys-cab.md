@@ -8,7 +8,7 @@ Inside the cabinet, you will find a BemaniPC. This BemaniPC uses a DVI output on
 Additionally, you will need a stereo 3.5mm splitter to capture audio
 
 ## Items Needed
-* Powered DVI splitter [link](https://www.amazon.com/gp/product/B084LK5S5Q)
+* Powered DVI splitter [link](https://www.amazon.com/dp/B08HS7TYYB)
 * 1x stereo 3.5mm splitter
 * 3.5mm cable, at least 10' in length
 * 2 DVI cables (One DVI cable should be 3-6' in length, the other should be at least 10' in length)
