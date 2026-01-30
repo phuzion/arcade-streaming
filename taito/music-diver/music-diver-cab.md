@@ -7,6 +7,8 @@ The cabinet gets it's video output from the DVI port on the Taito PC. None of th
 
 This setup will require 1 power outlet and 3 USB ports. None of the USB ports on the Taito PC should be used. There may be ways to reduce or change these requirements depending on your exact setup. While this setup should be able to run on any system, we tested and validated this setup with Windows. For those with other operating systems your mileage may vary.
 
+One thing discovered recently is if you use the exact capture card used in the link, you can skip using a powered DVI splitter. Instead you simply need one DVI cable and place the capture card inline between the X4 and the monitor. This will require one reboot to fix the rotation but from there the video signal will be fine, even if you remove power from the capture card. Always test, your milage may vary.
+
 ## Items Needed
 * Powered DVI splitter [link](https://www.amazon.com/dp/B08HS7TYYB)
 * 2 DVI cables (One DVI cable should be 3-6' in length, the other should be at least 10' in length) examples: [3 foot](https://www.amazon.com/dp/B09QG7VQ51), [10 foot](https://www.amazon.com/dp/B09QGP67Q2)
@@ -34,7 +36,7 @@ This setup will require 1 power outlet and 3 USB ports. None of the USB ports on
 ### Finishing Up
 1. Carefully route cables inside the machine, attempting to avoid running parallel to any wires that are brown, green or blue, as these are AC voltage lines, and may cause interference to audio or video signals. Most AC voltage lines will be located in the rear of the cabinet so as long as you do not route anything through the cabinet you should be good.
 2. Place the video splitter in a safe location. If this will be permanently installed, it may be wise to mount the splitter with two-sided-tape to an open panel, leaving the ports accessible for service. Take care not to pinch or excessively bend any cables.
-3. Route the audio and video cables out the open slot on the front of the cab.
+3. Route the audio and video cables out the coin door on the front of the cab.
 
 ## Streaming
 ### Booting
