@@ -6,6 +6,10 @@
 
   Pull requests are welcome. Priority is given to Bemani games, then other games primarily found in rhythm game tournaments, and then any other games.
 
+## Andamiro
+### Pump It Up
+* [LX Cabinet (PIU XX or newer)](/andamiro/piu/lx-cab.md)
+
 ## Konami
 ### Beatmania IIDX
 * Lightning Model
@@ -26,6 +30,8 @@
 * [Nemsys Model](/konami/sdvx/nemsys-cab.md) (SDVX 5 and later)
 * Valkyrie Model 
 
-## Andamiro
-### Pump It Up
-* [LX Cabinet (PIU XX or newer)](/andamiro/piu/lx-cab.md)
+## Taito
+### Music Diver
+* [Music Diver Cabinet](taito/music-diver/music-diver-cab.md)
+
+
